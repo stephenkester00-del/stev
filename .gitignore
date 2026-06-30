@@ -21,8 +21,3 @@ local.properties
 # OS Files
 .DS_Store
 Thumbs.db
-
-# IDE
-.classpath
-.project
-.settings/

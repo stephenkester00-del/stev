@@ -14,7 +14,6 @@ STEV is designed to assist with Android app development, providing intelligent c
 ## Project Structure
 - `app/` - Main Android application module
 - `agent/` - Coding agent implementation
-- `docs/` - Documentation
 
 ## Requirements
 - Android Studio Arctic Fox or later
