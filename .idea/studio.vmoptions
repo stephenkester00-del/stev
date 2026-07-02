@@ -1,7 +1,5 @@
 -Xmx2048m
 -XX:ReservedCodeCacheSize=512m
--XX:-UseShenandoahGC
 -XX:+IgnoreUnrecognizedVMOptions
--XX:-EnableJVMCI
---add-modules=ALL-SYSTEM
--Djdk.module.main=UNNAMED
+-XX:-UseG1GC
+-XX:+UseSerialGC
